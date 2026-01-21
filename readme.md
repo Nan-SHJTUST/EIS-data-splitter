@@ -8,6 +8,8 @@
 - **智能轮次识别**：根据频率变化自动拆分多轮循环实验数据。
 - **实时预览**：自动生成符合电化学惯例的 Nyquist 图（-Z'' vs Z'）。
 - **打包下载**：一键导出所有处理后的数据为标准的 `.txt` 格式压缩包。
+<img width="2557" height="1223" alt="91aae0f5d56e16839813518af555de3a" src="https://github.com/user-attachments/assets/d2f3d3ad-a863-4aeb-a431-8f64fa304710" />
+<img width="2553" height="1225" alt="image" src="https://github.com/user-attachments/assets/50edf1a7-1c97-4780-a3e3-baa9bd8c54d4" />
 
 ## 🚀 如何运行
 ### 1. 访问在线版 (推荐)
@@ -28,4 +30,5 @@ pip install -r requirements.txt
 ```bash
 streamlit run EIS_data_splitter.py
 ```
+
 
