@@ -16,9 +16,9 @@ https://eis-data-splitter.streamlit.app
 ### 2. 本地运行
 首先克隆仓库：
 ```bash
-git clone https://github.com/Nan-SHJTUST/EIS-Data-Splitter.git
+git clone https://github.com/Nan-SHJTUST/EIS-data-splitter.git
 
-cd EIS-Data-Splitter
+cd EIS-data-splitter
 ```
 安装依赖：
 ```bash
@@ -26,5 +26,6 @@ pip install -r requirements.txt
 ```
 启动程序：
 ```bash
-streamlit run app.py
+streamlit run EIS_data_splitter.py
 ```
+
