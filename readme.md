@@ -19,11 +19,12 @@ https://eis-data-splitter.streamlit.app
 git clone https://github.com/Nan-SHJTUST/EIS-Data-Splitter.git
 
 cd EIS-Data-Splitter
-
+```
 安装依赖：
 ```bash
 pip install -r requirements.txt
-
+```
 启动程序：
 ```bash
 streamlit run app.py
+```
