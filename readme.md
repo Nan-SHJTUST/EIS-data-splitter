@@ -11,10 +11,11 @@
 
 ## 🚀 如何运行
 ### 1. 访问在线版 (推荐)
-[如果你部署了 Streamlit Cloud，把链接贴在这里]
+https://eis-data-splitter.streamlit.app
 
 ### 2. 本地运行
 首先克隆仓库：
 ```bash
 git clone https://github.com/你的用户名/EIS-Data-Splitter.git
+
 cd EIS-Data-Splitter
